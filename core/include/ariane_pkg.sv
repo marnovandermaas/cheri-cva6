@@ -679,7 +679,7 @@ package ariane_pkg;
   // -------------------
   // Performance counter
   // -------------------
-  localparam int unsigned MHPMCounterNum = 6;
+  localparam int unsigned MHPMCounterNum = 29;
 
   // --------------------
   // Atomics
